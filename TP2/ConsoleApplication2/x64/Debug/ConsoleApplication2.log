@@ -1,0 +1,12 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(70,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(126,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(180,17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(199,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(221,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(223,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(263,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(288,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(291,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ilya\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(294,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Ilya\Desktop\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

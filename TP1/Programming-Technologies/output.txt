@@ -1,0 +1,20 @@
+// Parser constructor.
+// Parser entry point.
+// no expression present
+// last token must be null
+// Process an assignment.
+// save old token
+// compute the index of the variable
+// return current token
+// restore old token
+// get next part of exp
+// Add or subtract two terms.
+// Multiply or divide two factors.
+// Process an exponent.
+// Evaluate a unary + or -.
+// Process a function, a parenthesized expression, a value or a variable
+// Obtain the next token.
+// at end of expression
+// skip over white space
+// advance to next char
+// skip over white space
